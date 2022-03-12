@@ -1,0 +1,12 @@
+{
+  "name": "backend-node-101",
+  "version": "1.0.0",
+  "description": "Prova de BackEnd com API em Node.js, Express e PostgreSQL",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "uuid": "^8.3.2"
+  }
+}
